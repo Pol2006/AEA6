@@ -15,7 +15,7 @@
         }
         else
         {
-            Console.WriteLine("Valor no vàlid. Si us plau, introdueix un número enter.");
+            Console.WriteLine("Valor no vàlid.");
         }
     }
 }
