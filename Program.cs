@@ -15,7 +15,7 @@
         }
         else
         {
-            System.Console.WriteLine("Valor invalid.");
+            System.Console.WriteLine("Valor no valid.");
         }
     }
 }
