@@ -2,7 +2,7 @@
 {
     public static void Main(string[] args)
     {
-        System.Console.Write("Introdueix un valor: ");
+        Console.Write("Introdueix un valor: ");
         int valor;
         if (int.TryParse(System.Console.ReadLine(), out valor))
         {
@@ -15,7 +15,7 @@
         }
         else
         {
-            Console.WriteLine("Valor no vàlid.");
+            System.Console.WriteLine("Valor no vàlid.");
         }
     }
 }
@@ -32,5 +32,3 @@ public class Metodes
         return multiples;
     }
 }
-
-

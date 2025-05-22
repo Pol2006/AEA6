@@ -1,0 +1,14 @@
+C:\Users\canpi\Documents\Entorns\AEA6\bin\Debug\net9.0\AEA6.exe
+C:\Users\canpi\Documents\Entorns\AEA6\bin\Debug\net9.0\AEA6.deps.json
+C:\Users\canpi\Documents\Entorns\AEA6\bin\Debug\net9.0\AEA6.runtimeconfig.json
+C:\Users\canpi\Documents\Entorns\AEA6\bin\Debug\net9.0\AEA6.dll
+C:\Users\canpi\Documents\Entorns\AEA6\bin\Debug\net9.0\AEA6.pdb
+C:\Users\canpi\Documents\Entorns\AEA6\obj\Debug\net9.0\AEA6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canpi\Documents\Entorns\AEA6\obj\Debug\net9.0\AEA6.AssemblyInfoInputs.cache
+C:\Users\canpi\Documents\Entorns\AEA6\obj\Debug\net9.0\AEA6.AssemblyInfo.cs
+C:\Users\canpi\Documents\Entorns\AEA6\obj\Debug\net9.0\AEA6.csproj.CoreCompileInputs.cache
+C:\Users\canpi\Documents\Entorns\AEA6\obj\Debug\net9.0\AEA6.dll
+C:\Users\canpi\Documents\Entorns\AEA6\obj\Debug\net9.0\refint\AEA6.dll
+C:\Users\canpi\Documents\Entorns\AEA6\obj\Debug\net9.0\AEA6.pdb
+C:\Users\canpi\Documents\Entorns\AEA6\obj\Debug\net9.0\AEA6.genruntimeconfig.cache
+C:\Users\canpi\Documents\Entorns\AEA6\obj\Debug\net9.0\ref\AEA6.dll
