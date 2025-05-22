@@ -2,7 +2,7 @@
 {
     public static void Main(string[] args)
     {
-        Console.Write("Introdueix un valor: ");
+        Console.Write("Introdueix el valor: ");
         int valor;
         if (int.TryParse(System.Console.ReadLine(), out valor))
         {
