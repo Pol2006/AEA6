@@ -12,3 +12,4 @@ C:\Users\canpi\Documents\Entorns\AEA6\obj\Debug\net9.0\refint\AEA6.dll
 C:\Users\canpi\Documents\Entorns\AEA6\obj\Debug\net9.0\AEA6.pdb
 C:\Users\canpi\Documents\Entorns\AEA6\obj\Debug\net9.0\AEA6.genruntimeconfig.cache
 C:\Users\canpi\Documents\Entorns\AEA6\obj\Debug\net9.0\ref\AEA6.dll
+C:\Users\canpi\Documents\Entorns\AEA6\obj\Debug\net9.0\AEA6.sourcelink.json
